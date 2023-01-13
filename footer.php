@@ -8,7 +8,7 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="single-footer-widget">
                                         <div class="footer-logo">
-                                            <a href=index.php><img src="img/logo/footer.png" alt=""></a>
+                                            <a href=/><img src="img/logo/footer.png" alt=""></a>
                                         </div>
                                         <p>Technical aspects of Animation,vfx and Gaming is our strongest suite.</p>
                                         <div class="social-icons">
