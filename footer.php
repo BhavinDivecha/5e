@@ -10,7 +10,7 @@
                                         <div class="footer-logo">
                                             <a href="/"><img src="img/logo/footer.png" alt=""></a>
                                         </div>
-                                        <p>Technical aspects of Animation,vfx and Gaming is our strongest suite.</p>
+                                        <p>Headoffice: 105, B-wing, Kemp Plaza, Mindspace Malad west, Mumbai, 400064, India.</p>
                                         <div class="social-icons">
                                             <a href="https://www.facebook.com/FIAAT555"><i class="zmdi zmdi-facebook"></i></a>
                                             <a href="https://www.linkedin.com/in/five-elements-institute-of-advanced-animation-and-tech-4b94b2258"><i class="zmdi zmdi-linkedin"></i></a>
@@ -29,8 +29,9 @@
                                 <div class="col-lg-3 col-md-6">
                                     <div class="single-footer-widget">
                                         <h3>GET IN TOUCH</h3>
-                                        <a href="tel:+919967767425"><i class="fa fa-phone"></i>+919967767425</a>
                                         <a href="mailto:fiaat.5elements@gmail.com"><i class="fa fa-envelope"></i>fiaat.5elements@gmail.com</a>
+                                        <a href="tel:+919967767425"><i class="fa fa-phone"></i>+919967767425</a>
+                                        <a href="tel:+919004967425"><i class="fa fa-phone"></i>+919004967425</a>
                                         <!-- <span><i class="fa fa-globe"></i>www.educat.com</span> -->
                                         <!-- <span><i class="fa fa-map-marker"></i>ur address goes here,street.</span> -->
                                     </div>
@@ -47,19 +48,23 @@
                     </div>
                     <!--End of Footer Widget Area-->
                     <!--Footer Area Start-->
-                    <!-- <div class="footer-area">
+                    <div class="footer-area">
                         <div class="container">
                             <div class="row">
-                                <div class="col-lg-6 col-md-7 col-12">
-                                    <span>Copyright &copy; 5E 2022. All right reserved.</span>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                    <span><i class="fa fa-map-marker"></i> Mumbai</span>
                                 </div>
-                                <div class="col-lg-6 col-md-5 col-12">
-                                    <div class="column-right">
-                                        <span>Privacy Policy , Terms &amp; Conditions</span>
-                                    </div>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                <span><i class="fa fa-map-marker"></i> Hyderabad</span>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                <span><i class="fa fa-map-marker"></i> Bengaluru</span>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-6">
+                                <span><i class="fa fa-map-marker"></i> Guntur</span>
                                 </div>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                     <!--End of Footer Area-->
                 </footer>
