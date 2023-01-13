@@ -4,7 +4,7 @@
                             <div class="row">
                                 <div class="col-lg-3 col-12">
                                     <div class="logo">
-                                        <a href=/>
+                                        <a href="/">
                                             <img src="img/logo/footer.png" alt="EDUCAT" class="static-logo">
                                             <img src="img/logo/logo.png" alt="sticky-logo" class="sticky-logo">
                                         </a>
@@ -15,7 +15,7 @@
                                         <div class="mainmenu d-none d-lg-block">
                                             <nav>
                                                 <ul id="nav">
-                                                    <li class="current"><a href=/>Home</a>
+                                                    <li class="current"><a href="/">Home</a>
                                                     </li>
                                                     <li><a href="about.php">About</a></li>
                                                     <li><a href="course.php">Courses</a>
@@ -68,7 +68,7 @@
                                     <div class="mobile-menu">
                                         <nav id="dropdown">
                                             <ul>
-                                                <li><a href=/>HOME</a>
+                                                <li><a href="/">HOME</a>
                                                 </li>
                                                 
                                                 <li><a href="course.php">Courses</a>

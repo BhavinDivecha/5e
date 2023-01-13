@@ -66,7 +66,7 @@
                                     <h1 class="text-center">COURSES DETAILS</h1>
                                     <div class="breadcrumb-bar">
                                         <ul class="breadcrumb text-center">
-                                            <li><a href=/>Home</a></li>
+                                            <li><a href="/">Home</a></li>
                                             <li>COURSES DETAILS</li>
                                         </ul>
                                     </div>

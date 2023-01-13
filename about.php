@@ -66,7 +66,7 @@
                                     <h1 class="text-center">ABOUT US</h1>
                                     <div class="breadcrumb-bar">
                                         <ul class="breadcrumb text-center">
-                                            <li><a href=/>Home</a></li>
+                                            <li><a href="/">Home</a></li>
                                             <li>ABOUT US</li>
                                         </ul>
                                     </div>
@@ -90,7 +90,7 @@
                             <div class="col-lg-5">
                                 <!--About Image Area Start-->
                                 <div class="about-image-area img-full">
-                                    <img src="img/about/fiaat_flyer.jpg" alt="">
+                                    <img src="img/about/5E.png" alt="">
                                 </div>
                                 <!--About Image Area End-->
                             </div>
