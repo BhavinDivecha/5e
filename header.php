@@ -70,7 +70,7 @@
                                             <ul>
                                                 <li><a href="/">HOME</a>
                                                 </li>
-                                                
+                                                <li><a href="about.php">About</a></li>
                                                 <li><a href="course.php">Courses</a>
                                                     <ul class="sub-menu">
                                                     <li><a href="courses-details.php">Advanced CGI & Vfx Program - ACVP</a></li>

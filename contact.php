@@ -82,7 +82,7 @@
                         <div class="row g-0">
                            <div class="col-md-12 col-lg-6 grey-bg">
                                 <div class="edubuzz-address">
-                                    <h2 class="contact-title">You Can Contact With Us</h2>
+                                    <h2 class="contact-title">Contact Us</h2>
                                     <!-- <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum formas human.</p> -->
                                     <ul>
                                         <!-- <li><i class="fa fa-fax"></i> Address : No 40 Baria Sreet 133/2 NewYork City</li> -->
@@ -90,7 +90,7 @@
                                         <li><i class="fa fa-envelope-o"></i> Web: fiaat.5elements@gmail.com</li>
                                     </ul>
                                     <div class="contact-social">
-                                        <h3><strong>Also Can Find Us</strong></h3>
+                                        <h3><strong>Also Find Us</strong></h3>
                                         <ul>
                                             <li><a href="https://www.facebook.com/FIAAT555"><i class="zmdi zmdi-facebook"></i></a></li>
                                             <li><a href="https://www.linkedin.com/in/five-elements-institute-of-advanced-animation-and-tech-4b94b2258"><i class="zmdi zmdi-linkedin"></i></a></li>

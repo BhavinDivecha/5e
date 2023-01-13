@@ -61,11 +61,11 @@
                 <div class="slider-area">
                     <div class="hero-slider owl-carousel">
                         <!--Single Slider Start-->
-                        <div class="single-slider single-slider-2" style="background-image: url(img/banner/FIAAT_In_banner.jpg)">
+                        <div class="single-slider single-slider-2" style="background-image: url(img/banner/FIAAT_web_banner_index.jpg)">
                             <!--   -->
                             <div class="hero-slider-content slider-content-2">
-                                <h1>FIAAT</h1>
-                                <p>FIAAT is a revolution in creative education sector, Animation is our strength, Bread and butter! as we call it.</p>
+                                <h1>Five Elements Institute Of Advanced Animation and Technology</h1>
+                                <p>Learn VFX/CG from the Masters with over a decade of experience in the animation Industry</p>
                                 <div class="slider-btn">
                                     <a class="button-default button-large" href="course.php">View Courses  <i class="zmdi zmdi-chevron-right"></i></a>
                                 </div>
@@ -125,9 +125,9 @@
                         <div class="row">
                             <div class="col-lg-4 col-md-6 col-12">
                                 <div class="single-item">
-                                    <!-- <div class="single-item-image overlay-effect">
-                                        <a href="courses-details.php"><img src="img/course/1.jpg" alt=""></a>
-                                        <div class="courses-hover-info">
+                                    <div class="single-item-image overlay-effect">
+                                        <a href="courses-details.php"><img src="img/course/DF_Course_logo.jpg" alt=""></a>
+                                        <!-- <div class="courses-hover-info">
                                             <div class="courses-hover-action">
                                                 <div class="courses-hover-thumb">
                                                     <img src="img/teacher/1.png" alt="small images">
@@ -136,8 +136,8 @@
                                                 <span class="crs-separator">/</span>
                                                 <p>Professor</p>
                                             </div>
-                                        </div>
-                                    </div> -->
+                                        </div> -->
+                                    </div>
                                     <div class="single-item-text">
                                         <h4><a href="courses-details.php">Diploma In FX - DF</a></h4>
                                         <div class="single-item-content">
@@ -159,9 +159,9 @@
                             
                             <div class="col-lg-4 col-md-6 col-12">
                                 <div class="single-item">
-                                    <!-- <div class="single-item-image overlay-effect">
-                                        <a href="courses-details.php"><img src="img/course/3.jpg" alt=""></a>
-                                        <div class="courses-hover-info">
+                                    <div class="single-item-image overlay-effect">
+                                        <a href="courses-details.php"><img src="img/course/Generic_Course_Logo.jpg" alt=""></a>
+                                        <!-- <div class="courses-hover-info">
                                             <div class="courses-hover-action">
                                                 <div class="courses-hover-thumb">
                                                     <img src="img/teacher/1.png" alt="small images">
@@ -170,8 +170,8 @@
                                                 <span class="crs-separator">/</span>
                                                 <p>Professor</p>
                                             </div>
-                                        </div>
-                                    </div> -->
+                                        </div> -->
+                                    </div>
                                     <div class="single-item-text">
                                         <h4><a href="courses-details.php">Advanced CGI & Vfx Program - ACVP</a></h4>
                                         <!-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm.</p> -->
@@ -193,9 +193,9 @@
                             </div>
                             <div class="col-lg-4 col-md-6 col-12">
                                 <div class="single-item">
-                                    <!-- <div class="single-item-image overlay-effect">
-                                        <a href="courses-details.php"><img src="img/course/2.jpg" alt=""></a>
-                                        <div class="courses-hover-info">
+                                    <div class="single-item-image overlay-effect">
+                                        <a href="courses-details.php"><img src="img/course/Generic_Course_Logo.jpg" alt=""></a>
+                                        <!-- <div class="courses-hover-info">
                                             <div class="courses-hover-action">
                                                 <div class="courses-hover-thumb">
                                                     <img src="img/teacher/1.png" alt="small images">
@@ -204,8 +204,8 @@
                                                 <span class="crs-separator">/</span>
                                                 <p>Professor</p>
                                             </div>
-                                        </div>
-                                    </div> -->
+                                        </div> -->
+                                    </div>
                                     <div class="single-item-text">
                                         <h4><a href="courses-details.php">Advanced Sculpting & Modelling Program - ASMP </a></h4>
                                         <!-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm.</p> -->

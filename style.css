@@ -139,7 +139,7 @@ textarea:focus {
 }
 a:focus,
 a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 	text-decoration: none;
 }
 a,
@@ -234,7 +234,7 @@ label {
 }
 .mark,
 mark {
-	background: #FFAE27 none repeat scroll 0 0;
+	background: #fe4d01 none repeat scroll 0 0;
 	color: #ffffff;
 }
 .fix {
@@ -259,8 +259,8 @@ mark {
 	transition: all 0.3s ease-in-out;
 }
 .button-default:hover {
-	background-color: #FFAE27;
-	color: #FFAE27;
+	background-color: #fe4d01;
+	color: #fe4d01;
 }
 .btn-group {
 	margin-left: 5px;
@@ -952,31 +952,31 @@ mark {
 	padding: 34px 0;
 }
 .mainmenu ul#nav > li > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .header-logo-menu.fixed .mainmenu ul#nav > li > a {
 	color: #fff;
 }
 .header-logo-menu.fixed .mainmenu ul#nav > li > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .header-logo-menu.fixed .search-menu i#toggle-search {
 	color: #fff;
 }
 .header-logo-menu.fixed .search-menu i#toggle-search:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .header-logo-menu.stick .mainmenu ul#nav > li > a {
 	color: #2d3e50;
 }
 .header-logo-menu.stick .mainmenu ul#nav > li > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .header-logo-menu.stick .search-menu i#toggle-search {
 	color: #2d3e50;
 }
 .header-logo-menu.stick .search-menu i#toggle-search:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .mainmenu ul#nav > li > a:after,
 .mainmenu ul#nav.menu-white > li > a:after {
@@ -1078,7 +1078,7 @@ mark {
 }
 .mainmenu ul#nav li ul.sub-menu > li a:hover,
 .mega-menu a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .mainmenu li > .sub-menu i {
 	float: right;
@@ -1229,7 +1229,7 @@ mark {
 }
 .search-form {
 	background-color: #ffffff;
-	border-top: 1px solid #FFAE27;
+	border-top: 1px solid #fe4d01;
 	float: right;
 	width: 290px;
 }
@@ -1246,7 +1246,7 @@ mark {
 	width: 30px;
 }
 .search-menu i#toggle-search:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .bg-blue {
 	background: #2D3E50
@@ -1286,7 +1286,7 @@ mark {
 	transition: all 0.3s ease 0s;
 }
 .search-form button[type="submit"]:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .search-menu i#toggle-search {
 	color: #000;
@@ -1430,7 +1430,7 @@ mark {
 }
 .hero-slider-content > h1 {
 	font-size: 60px;
-	color: #F5B01F;
+	color: #fe4d01;
 	line-height: 64px;
 	padding-bottom: 20px;
 	font-weight: 700;
@@ -1479,7 +1479,7 @@ mark {
 	visibility: visible;
 }
 .hero-slider .owl-nav > button:hover {
-	background-color: #FFAE27 !important;
+	background-color: #fe4d01 !important;
 	color: #fff;
 }
 .hero-slider .owl-nav > .owl-next {
@@ -1499,7 +1499,8 @@ mark {
 	margin-left: 0;
 }
 .hero-slider-content.slider-content-2 > p {
-	max-width: 780px;
+	max-width: 100%;
+    text-align: center;
 }
 /*----------------------------------------*/
 
@@ -1517,10 +1518,10 @@ mark {
 	text-transform: capitalize;
 }
 h1 .orange-color{
-	color: #F5B01F;
+	color: #fe4d01;
 }
 .about-area h3 span.orange-color {
-	color: #F5B01F;
+	color: #fe4d01;
 }
 .about-area p {
 	line-height: 28px;
@@ -1535,7 +1536,7 @@ h1 .orange-color{
 	border-radius: 50px;
 }
 .about-container > .button-default:hover {
-	background: #FFAE27 none repeat scroll 0 0;
+	background: #fe4d01 none repeat scroll 0 0;
 	color: #fff;
 }
 /*about style 2 css*/
@@ -1679,7 +1680,7 @@ h1 .orange-color{
 }
 .single-item-text h4 a:hover,
 .single-item-text h4 a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .single-item-text-info span {
 	color: #696969;
@@ -1726,8 +1727,13 @@ h1 .orange-color{
 .single-item-rating {
 	display: inline-block;
 }
+@media screen and (min-width: 700px) {
+	.aboutBanner{
+		margin-top: -47px;    margin-left: -79px;
+	}
+  }
 .single-item-rating {
-	color: #f3c30b;
+	color: #fe4d01;
 	float: right;
 	font-size: 16px;
 	line-height: 26px;
@@ -1760,7 +1766,7 @@ h1 .orange-color{
 	margin-top: 40px
 }
 .button-default.button-large:hover {
-	background: #FFAE27 none repeat scroll 0 0;
+	background: #fe4d01 none repeat scroll 0 0;
 	color: #fff;
 }
 .button-large.button-default i {
@@ -1805,7 +1811,7 @@ h1 .orange-color{
 	background: rgba(0, 0, 0, 0.7);
 }
 .single-fun-factor:hover {
-	border-color: #FFAE27;
+	border-color: #fe4d01;
 }
 .single-fun-factor > h4 {
 	font-size: 24px;
@@ -1820,7 +1826,7 @@ h1 .orange-color{
 	font-size: 56px;
 	line-height: 46px;
 	font-weight: 900;
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .fun-factor-area.fun-bg-img {
 	/* background-image: url(img/banner/FIAAT_In_banner.jpg); */
@@ -1863,7 +1869,7 @@ h1 .orange-color{
 	color: #2d3e50;
 }
 .single-latest-text > h3 a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .single-latest-image a {
 	display: block
@@ -1888,7 +1894,7 @@ h1 .orange-color{
 	border-radius: 50px;
 }
 .single-latest-item:hover .button-default {
-	background: #FFAE27;
+	background: #fe4d01;
 	color: #fff;
 }
 /*----------------------------------------*/
@@ -1954,7 +1960,7 @@ h1 .orange-color{
 	line-height: 1.35;
 }
 .product-content > h2 > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .product-price {
 	position: relative;
@@ -2014,7 +2020,7 @@ h1 .orange-color{
 	border-radius: 0;
 }
 .add-to-cart a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 /*----------------------------------------*/
 
@@ -2044,7 +2050,7 @@ h1 .orange-color{
 	float: left;
 	width: 104px;
 	height: 104px;
-	border: 2px solid #FFAE27;
+	border: 2px solid #fe4d01;
 	margin-top: 13px;
 }
 .single-testimonial-area .testimonial-image img {
@@ -2211,7 +2217,7 @@ h1 .orange-color{
 	border-radius: 50px;
 }
 .single-event-item:hover .button-default {
-	background: #FFAE27;
+	background: #fe4d01;
 	color: #fff;
 }
 .single-event-item {
@@ -2283,7 +2289,7 @@ h1 .orange-color{
 	background-color: #ffff;
 }
 .subscribe-form > button {
-	border: 2px solid #FFAE27;
+	border: 2px solid #fe4d01;
 	font-weight: 700;
 	height: 100%;
 	position: absolute;
@@ -2294,7 +2300,7 @@ h1 .orange-color{
 	width: 34%;
 	color: #fff;
 	cursor: pointer;
-	background-color: #FFAE27;
+	background-color: #fe4d01;
 }
 .subscribe-form > button:hover {
 	background: #F4A012;
@@ -2381,7 +2387,7 @@ h1 .orange-color{
 	line-height: 25px;
 }
 .footer-list a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .single-footer-widget #Instafeed {
 	margin-top: 30px;
@@ -2485,7 +2491,7 @@ h1 .orange-color{
 	margin: 0;
 }
 .pagination-content.number .pagination li a {
-	border: 1px solid #FFAE27;
+	border: 1px solid #fe4d01;
 	display: inline-block;
 	font-size: 14px;
 	font-weight: 500;
@@ -2502,12 +2508,12 @@ h1 .orange-color{
 .pagination-content.number .pagination li a:hover,
 .pagination-content.number .pagination li.current a {
 	color: #fff;
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .pagination-content.number .pagination li:first-child a:hover,
 .pagination-content.number .pagination li:last-child a:hover {
 	color: #fff;
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .product-area .pagination-content.number .pagination {
 	margin: 20px 0 0;
@@ -2561,7 +2567,7 @@ h1 .orange-color{
 	visibility: visible;
 }
 .vbox-close {
-	background: #FFAE27 url("close.gif") no-repeat scroll 10px center !important;
+	background: #fe4d01 url("close.gif") no-repeat scroll 10px center !important;
 	color: #fff !important;
 	cursor: pointer;
 	display: block;
@@ -2644,9 +2650,9 @@ h1 .orange-color{
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 }
 .slick-arrow:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 	color: #fff;
-	border-color: #FFAE27;
+	border-color: #fe4d01;
 }
 .single-product-content {
 	margin-left: 15px;
@@ -2787,7 +2793,7 @@ h1 .orange-color{
 	line-height: 50px;
 }
 .add-to-cart-2:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .add-to-cart i {
 	font-size: 24px;
@@ -2855,7 +2861,7 @@ h1 .orange-color{
 	font-size: 21px;
 }
 .single-product-share > ul > li > a:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 	color: #fff;
 }
 /*porduct quantity*/
@@ -2925,7 +2931,7 @@ h1 .orange-color{
 }
 .dec-and-review-menu > li > a.active,
 .dec-and-review-menu > li > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .single-product-description > p {
 	font-size: 14px;
@@ -3034,7 +3040,7 @@ h1 .orange-color{
 	margin: 0 5px;
 }
 .send-btn:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .cancel-btn:hover {
 	background: #f80e0e;
@@ -3090,7 +3096,7 @@ h1 .orange-color{
 	font-size: 13px;
 }
 .form-container > button {
-	background: #FFAE27 none repeat scroll 0 0;
+	background: #fe4d01 none repeat scroll 0 0;
 	border: 0 none;
 	color: #ffffff;
 	float: right;
@@ -3281,8 +3287,8 @@ h1 .orange-color{
 }
 .single-sidebar-widget .tags li a:hover {
 	color: #fff;
-	background-color: #FFAE27;
-	border-color: #FFAE27;
+	background-color: #fe4d01;
+	border-color: #fe4d01;
 }
 .course-categoris li {
 	border-bottom: 1px solid #ddd;
@@ -3305,10 +3311,10 @@ h1 .orange-color{
 	float: right;
 }
 .course-categoris li a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .sidebar-title {
-	background-color: #FFAE27;
+	background-color: #fe4d01;
 	color: #fff;
 	font-size: 18px;
 	font-weight: 500;
@@ -3352,7 +3358,7 @@ h1 .orange-color{
 	position: relative;
 }
 .breadcrumb-banner-area:after {
-	background: rgba(45, 62, 80, 0.5) none repeat scroll 0 0;
+	background: rgba(45, 62, 80, 0.25) none repeat scroll 0 0;
 	content: "";
 	height: 100%;
 	left: 0;
@@ -3548,7 +3554,7 @@ h3.content2 {
 /*----------------------------------------*/
 
 .recent-content-item > a {
-	border: 1px solid #FFAE27;
+	border: 1px solid #fe4d01;
 	display: inline-block;
 	float: left;
 }
@@ -3758,7 +3764,7 @@ h4.small-title {
 }
 .common-tag ul > li > a:hover,
 .blog-share ul > li > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .next-prev-post {
 	-webkit-box-flex: 1;
@@ -3789,7 +3795,7 @@ h4.small-title {
 	color: #979797;
 }
 .next-prev-post > ul > li > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .comment {
 	display: -webkit-box;
@@ -3831,7 +3837,7 @@ h4.small-title {
 }
 .comment-content a.reply {
 	font-size: 14px;
-	color: #FFAE27;
+	color: #fe4d01;
 	font-weight: 400;
 	text-transform: uppercase;
 }
@@ -3856,7 +3862,7 @@ h4.small-title {
 .sent-btn {
 	display: inline-block;
 	height: 45px;
-	background: #FFAE27;
+	background: #fe4d01;
 	padding: 10px 30px;
 	color: #fff;
 	font-weight: 600;
@@ -3866,7 +3872,7 @@ h4.small-title {
 	position: relative;
 	vertical-align: middle;
 	overflow: hidden;
-	border: 1px solid #FFAE27;
+	border: 1px solid #fe4d01;
 	-webkit-transition: 0.3s ease-in-out;
 	transition: 0.3s ease-in-out;
 }
@@ -3883,7 +3889,7 @@ h4.small-title {
 }
 .single-input > input:focus,
 .single-input > textarea:focus {
-	border-color: #FFAE27;
+	border-color: #fe4d01;
 }
 .single-input > input::-webkit-input-placeholder,
 .single-input > textarea::-webkit-input-placeholder {
@@ -3970,7 +3976,7 @@ h4.small-title {
 	display: inline-block;
 }
 .table-content table td.edubuzz-product-add-cart a:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 	color: #fff;
 }
 /*-------------------------
@@ -4030,7 +4036,7 @@ h4.small-title {
 	width: inherit;
 }
 .coupon-all input.button:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .coupon2 {
 	float: right;
@@ -4074,8 +4080,8 @@ h4.small-title {
 	transition: all 0.3s ease 0s;
 }
 .cart-page-total > a:hover {
-	background: #FFAE27;
-	border-color: #FFAE27;
+	background: #fe4d01;
+	border-color: #fe4d01;
 }
 /*-------------------------
      17. Checkout Page CSS 
@@ -4109,7 +4115,7 @@ h4.small-title {
 	transition: all 0.3s ease-in-out;
 }
 .coupon-accordion span:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .coupon-content {
 	border: 1px solid #e5e5e5;
@@ -4164,7 +4170,7 @@ h4.small-title {
 }
 .coupon-info p.form-row input[type="submit"]:hover,
 p.checkout-coupon input[type="submit"]:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .form-row > label {
 	margin-top: 7px;
@@ -4182,7 +4188,7 @@ p.lost-password a {
 	color: #6f6f6f;
 }
 p.lost-password a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .coupon-checkout-content {
 	margin-bottom: 30px;
@@ -4211,7 +4217,7 @@ p.checkout-coupon input[type="submit"] {
 }
 .coupon-info p.form-row input[type="submit"]:hover,
 p.checkout-coupon input[type="submit"]:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 }
 .checkbox-form h3 {
 	border-bottom: 1px solid #e5e5e5;
@@ -4366,7 +4372,7 @@ thead {
 	cursor: pointer;
 }
 .payment-accordion h5.panel-title > a:hover {
-	color: #FFAE27 !important;
+	color: #fe4d01 !important;
 }
 .payment-accordion .card-body > p {
 	color: #333;
@@ -4388,7 +4394,7 @@ thead {
 	cursor: pointer;
 }
 .order-button-payment input:hover {
-	background: #FFAE27;
+	background: #fe4d01;
 }
 /*----------------------------------------*/
 
@@ -4398,13 +4404,13 @@ thead {
 /*contact area css*/
 
 .blue-bg {
-	background-color: #FFAE27;
+	background-color: #fe4d01;
 }
 .grey-bg {
 	background-color: #b2b2b2;
 }
 .yellow-bg {
-	background-color: #FFAE27;
+	background-color: #fe4d01;
 }
 .contact-form-wrap {
 	padding: 3px 38px;
@@ -4494,9 +4500,9 @@ thead {
 	color: rgb(0, 0, 0);
 }
 .contact-social li a:hover {
-	background-color: #FFAE27;
+	background-color: #fe4d01;
 	color: #fff;
-	border-color: #FFAE27;
+	border-color: #fe4d01;
 }
 .contact-form-style .button-default {
 	border: 0;
@@ -4505,7 +4511,7 @@ thead {
 	cursor: pointer;
 }
 .contact-form-style .button-default:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 	background-color: #1F3971;
 }
 /*----------------------------------------*/
@@ -4702,8 +4708,8 @@ thead {
 	transition: all 0.5s ease 0s;
 }
 .gallery__menu button.is-checked, .gallery__menu button:hover {
-	border-bottom: 1px solid #FFAE27;
-	color: #FFAE27;
+	border-bottom: 1px solid #fe4d01;
+	color: #fe4d01;
 	outline: medium none;
 }
 .single-gallery-img a {
@@ -4766,7 +4772,7 @@ thead {
 	color: #a43d21;
 }
 .lost-password > a:hover {
-	color: #FFAE27;
+	color: #fe4d01;
 }
 .form-fild > input {
 	border: none;
@@ -4805,7 +4811,7 @@ input.checkbox {
 ---------------------------*/
 .error-text > h1 {
 	font-size: 200px;
-    color: #FFAE27;
+    color: #fe4d01;
 	font-weight: 900;
 	letter-spacing: 10px;
 	line-height: 220px;
@@ -4860,10 +4866,10 @@ input.checkbox {
 	width: 50px;
 }
 .search-error button:hover{
-    color: #FFAE27;
+    color: #fe4d01;
 }
 .error-button a {
-	background: #FFAE27 none repeat scroll 0 0;
+	background: #fe4d01 none repeat scroll 0 0;
 	border-radius: 35px;
 	color: #ffffff;
 	display: inline-block;
@@ -4895,7 +4901,7 @@ input.checkbox {
 	text-align: center;
 	width: 40px;
 	z-index: 9999;
-	background-color: #FFAE27;
+	background-color: #fe4d01;
 }
 #scrollUp:hover {
 	background-color: #F4A012;

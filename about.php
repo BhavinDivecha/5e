@@ -90,7 +90,7 @@
                             <div class="col-lg-5">
                                 <!--About Image Area Start-->
                                 <div class="about-image-area img-full">
-                                    <img src="img/about/FIAAT.png" alt="">
+                                    <img src="img/about/FIAAT.png" alt="" class="aboutBanner">
                                 </div>
                                 <!--About Image Area End-->
                             </div>
