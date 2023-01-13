@@ -493,7 +493,7 @@
                                         </div>
                                     </div> -->
                                     <div class="single-item-text">
-                                        <h4><a href="courses-details.php">Diploma In FX - DF</a></h4>
+                                        <h4><a href="courses-details-diploma-df.php">Diploma In FX - DF</a></h4>
                                         <!-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm.</p> -->
                                         <div class="single-item-content">
                                            <div class="single-item-comment-view">

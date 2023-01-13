@@ -126,7 +126,7 @@
                             <div class="col-lg-4 col-md-6 col-12">
                                 <div class="single-item">
                                     <div class="single-item-image overlay-effect">
-                                        <a href="courses-details.php"><img src="img/course/DF_Course_logo.jpg" alt=""></a>
+                                        <a href="courses-details-diploma-df.php"><img src="img/course/DF_Course_logo.jpg" alt=""></a>
                                         <!-- <div class="courses-hover-info">
                                             <div class="courses-hover-action">
                                                 <div class="courses-hover-thumb">
@@ -139,7 +139,7 @@
                                         </div> -->
                                     </div>
                                     <div class="single-item-text">
-                                        <h4><a href="courses-details.php">Diploma In FX - DF</a></h4>
+                                        <h4><a href="courses-details-diploma-df.php">Diploma In FX - DF</a></h4>
                                         <div class="single-item-content">
                                            <div class="single-item-comment-view">
                                                <span><i class="zmdi zmdi-accounts"></i>59</span>
