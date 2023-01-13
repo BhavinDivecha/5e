@@ -1430,7 +1430,7 @@ mark {
 }
 .hero-slider-content > h1 {
 	font-size: 60px;
-	color: #fff;
+	color: #F5B01F;
 	line-height: 64px;
 	padding-bottom: 20px;
 	font-weight: 700;
@@ -1515,6 +1515,9 @@ mark {
 	max-width: 540px;
 	line-height: 1.2;
 	text-transform: capitalize;
+}
+h1 .orange-color{
+	color: #F5B01F;
 }
 .about-area h3 span.orange-color {
 	color: #F5B01F;

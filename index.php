@@ -101,7 +101,7 @@
                                 <div class="col-lg-5">
                                     <!--About Image Area Start-->
                                     <div class="about-image-area img-full">
-                                        <img src="img/about/fiaat_flyer.jpg" alt="">
+                                        <img src="img/about/5E.png" alt="">
                                     </div>
                                     <!--About Image Area End-->
                                 </div>
