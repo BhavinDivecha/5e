@@ -58,7 +58,7 @@
     Google Font Montserrat+Poppins
 -------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Poppins:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Poppins:300,400,500,600,700|Anton');
  html {
 	overflow: hidden;
 	overflow-y: auto;
@@ -283,7 +283,7 @@ mark {
 	position: relative
 }
 .section-title h3 {
-	color: #2d3e50;
+	color: black;
 	font-size: 30px;
 	line-height: 30px;
 	margin-bottom: 10px;
@@ -312,7 +312,7 @@ mark {
 	background: rgba(0, 0, 0, 0) url("img/icon/cap-white.jpg") repeat scroll 0 0;
 }
 .carousel-style-one.owl-theme .owl-controls .owl-nav div {
-	color: #2D3E50;
+	color: black;
 	display: inline-block;
 	font-size: 60px;
 	height: 60px;
@@ -793,7 +793,7 @@ mark {
 	color: #fff
 }
 .header-top-right .content:hover > a {
-	color: #2d3e50;
+	color: black;
 }
 .header-top-right > .content i {
 	font-size: 14px;
@@ -847,7 +847,7 @@ mark {
 	z-index: 9999;
 }
 .account-dropdown a {
-	color: #2d3e50;
+	color: black;
 	display: block;
 	padding: 5px 0;
 }
@@ -939,7 +939,7 @@ mark {
 	position: relative;
 }
 .mainmenu ul#nav > li > a {
-	color: #2d3e50;
+	color: black;
 	display: block;
 	font-size: 14px;
 	font-weight: 500;
@@ -967,13 +967,13 @@ mark {
 	color: #fe4d01;
 }
 .header-logo-menu.stick .mainmenu ul#nav > li > a {
-	color: #2d3e50;
+	color: black;
 }
 .header-logo-menu.stick .mainmenu ul#nav > li > a:hover {
 	color: #fe4d01;
 }
 .header-logo-menu.stick .search-menu i#toggle-search {
-	color: #2d3e50;
+	color: black;
 }
 .header-logo-menu.stick .search-menu i#toggle-search:hover {
 	color: #fe4d01;
@@ -993,7 +993,7 @@ mark {
 	bottom: 38px;
 }
 .mainmenu ul#nav.menu-white > li:hover > a:after {
-	background: #2d3e50
+	background: #b2b2b2
 }
 .mainmenu ul#nav > li:hover > a:after,
 .mainmenu ul#nav.menu-white > li:hover > a:after {
@@ -1003,11 +1003,11 @@ mark {
 	color: #fff;
 }
 .header-logo-menu.stick .mainmenu ul#nav.menu-white > li > a {
-	color: #2d3e50;
+	color: black;
 }
 .mainmenu ul#nav.menu-white > li:hover > a,
 .stick .mainmenu ul#nav.menu-white > li:hover > a {
-	color: #2d3e50
+	color: #b2b2b2
 }
 .mainmenu li > a > i {
 	margin-left: 6px;
@@ -1069,7 +1069,7 @@ mark {
 }
 .mainmenu ul#nav li ul.sub-menu > li a,
 .mega-menu a {
-	color: #2d3e50;
+	color: black;
 	display: block;
 	font-size: 14px;
 	font-weight: 400;
@@ -1160,7 +1160,7 @@ mark {
 	z-index: 9999;
 }
 .mega-menu h3 {
-	color: #2d3e50;
+	color: black;
 	font-size: 12px;
 	padding-bottom: 10px;
 	text-transform: uppercase;
@@ -1249,7 +1249,7 @@ mark {
 	color: #fe4d01;
 }
 .bg-blue {
-	background: #2D3E50
+	background: #b2b2b2
 }
 #search-form {
 	overflow: hidden;
@@ -1305,7 +1305,7 @@ mark {
 /*----------------------------------------*/
 
 .mobile-menu-area {
-	background: #2d3e50 none repeat scroll 0 0;
+	background: #b2b2b2 none repeat scroll 0 0;
 	display: none;
 }
 .mean-container .mean-bar:after {
@@ -1319,7 +1319,7 @@ mark {
 }
 .mean-container .mean-nav ul li a {
 	background: #ffffff none repeat scroll 0 0;
-	color: #2D3E50;
+	color: black;
 	display: block;
 }
 .mean-container .mean-nav ul li a.mean-expand {
@@ -1343,7 +1343,7 @@ mark {
 	background: #fff
 }
 .mobile-menu-area .mean-nav {
-	background: #2d3e50 none repeat scroll 0 0
+	background: #b2b2b2 none repeat scroll 0 0
 }
 .mean-last {
 	margin-bottom: 20px
@@ -1374,6 +1374,7 @@ mark {
 	animation-name: fadeOutUp;
 }
 .active .hero-slider-content > h1 {
+	font-family: 'Anton', sans-serif;
 	-webkit-animation-name: fadeInUp;
 	animation-name: fadeInUp;
     -webkit-animation-delay: 800ms;
@@ -1676,7 +1677,7 @@ h1 .orange-color{
 }
 .single-item-text h4 a,
 .single-item-text h4 {
-	color: #2d3e50;
+	color: black;
 }
 .single-item-text h4 a:hover,
 .single-item-text h4 a:hover {
@@ -1687,7 +1688,7 @@ h1 .orange-color{
 	margin-right: 11px;
 }
 .single-item-text-info span span {
-	color: #2d3e50;
+	color: black;
 }
 .single-item-text > p {
 	color: #222222;
@@ -1749,7 +1750,7 @@ h1 .orange-color{
 	text-align: center;
 }
 .single-item:hover .button-default {
-	background: #2d3e50 none repeat scroll 0 0;
+	background: #b2b2b2 none repeat scroll 0 0;
 }
 .button-large.button-default {
 	background-color: white;
@@ -1808,7 +1809,7 @@ h1 .orange-color{
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 	position: relative;
-	background: rgba(0, 0, 0, 0.7);
+	background: rgb(178 178 178);
 }
 .single-fun-factor:hover {
 	border-color: #fe4d01;
@@ -1866,7 +1867,7 @@ h1 .orange-color{
 	width: 100%;
 }
 .single-latest-text > h3 a {
-	color: #2d3e50;
+	color: black;
 }
 .single-latest-text > h3 a:hover {
 	color: #fe4d01;
@@ -2144,7 +2145,7 @@ h1 .orange-color{
 	position: relative;
 }
 .single-event-image > span {
-	background: #2d3e50 none repeat scroll 0 0;
+	background: #b2b2b2 none repeat scroll 0 0;
 	bottom: 0;
 	content: "";
 	height: 96px;
@@ -2344,7 +2345,7 @@ h1 .orange-color{
 }
 .social-icons a {
 	background: #ffffff none repeat scroll 0 0;
-	color: #2d3e50;
+	color: black;
 	display: inline-block;
 	font-size: 20px;
 	height: 31px;
@@ -3570,7 +3571,7 @@ h3.content2 {
 	color: #6b6b6b;
 }
 .recent-text .single-item-comment-view > span {
-	color: #b2b2b2;
+	color: black;
 	font-size: 11px;
 	line-height: 12px;
 	margin-right: 13px;
@@ -4468,6 +4469,9 @@ thead {
 	color: rgb(0, 0, 0);
 	padding: 10px 0;
 }
+.edubuzz-address > ul > li > a:hover{
+	color: #fff;
+}
 .edubuzz-address > ul > li i {
 	height: 40px;
 	line-height: 40px;
@@ -4511,8 +4515,8 @@ thead {
 	cursor: pointer;
 }
 .contact-form-style .button-default:hover {
-	color: #fe4d01;
-	background-color: #1F3971;
+	color: #fff;
+	background-color: #fe4d01;
 }
 /*----------------------------------------*/
 
@@ -4696,7 +4700,7 @@ thead {
 .gallery__menu button {
 	background: transparent none repeat scroll 0 0;
 	border: 0 none;
-	color: #2d3e50;
+	color: black;
 	display: inline-block;
 	font-size: 16px;
 	font-weight: 400;

@@ -63,7 +63,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="breadcrumb-text">
-                                    <h1 class="text-center">COURSES DETAILS</h1>
+                                    <h1 class="text-center">COURSE DETAILS</h1>
                                     <div class="breadcrumb-bar">
                                         <ul class="breadcrumb text-center">
                                             <li><a href="/">Home</a></li>

@@ -274,7 +274,7 @@
 		visibility: hidden;
 	}
 	.header-logo-menu.fixed .search-menu i#toggle-search {
-		color: #2d3e50;
+		color: black;
 	}
 	.header-top:before {
 		width: 48%;
@@ -1319,7 +1319,7 @@
 	}
 	.hero-slider-content {
 		max-width: 320px;
-		margin: 0 auto;
+		/* margin: 0 auto; */
 		/* margin-right: 0; */
 	}
 	.single-event-text {

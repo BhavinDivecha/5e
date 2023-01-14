@@ -86,8 +86,8 @@
                                     <!-- <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram anteposuerit litterarum formas human.</p> -->
                                     <ul>
                                         <!-- <li><i class="fa fa-fax"></i> Address : No 40 Baria Sreet 133/2 NewYork City</li> -->
-                                        <li><i class="fa fa-phone"></i> Phone : +919967767425</li>
-                                        <li><i class="fa fa-envelope-o"></i> Web: fiaat.5elements@gmail.com</li>
+                                        <li><a href="tel:+919967767425"><i class="fa fa-phone"></i> Phone : +919967767425</a><br><a href="tel:+919004967425"><i class="fa fa-phone"></i> Phone : +919004967425</a></li>
+                                        <li><a href="mailto:fiaat.5elements@gmail.com"><i class="fa fa-envelope-o"></i> Web: fiaat.5elements@gmail.com</a></li>
                                     </ul>
                                     <div class="contact-social">
                                         <h3><strong>Also Find Us</strong></h3>

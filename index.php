@@ -142,8 +142,8 @@
                                         <h4><a href="courses-details-diploma-df.php">Diploma In FX - DF</a></h4>
                                         <div class="single-item-content">
                                            <div class="single-item-comment-view">
-                                               <span><i class="zmdi zmdi-accounts"></i>59</span>
-                                               <span><i class="zmdi zmdi-favorite"></i>19</span>
+                                               <span><i class="zmdi zmdi-accounts"></i>340</span>
+                                               <span><i class="zmdi zmdi-favorite"></i>127</span>
                                            </div>
                                            <div class="single-item-rating">
                                                <i class="zmdi zmdi-star"></i>
@@ -175,19 +175,19 @@
                                     <div class="single-item-text">
                                         <h4><a href="courses-details.php">Advanced CGI & Vfx Program - ACVP</a></h4>
                                         <!-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm.</p> -->
-                                        <div class="single-item-content">
+                                        <!-- <div class="single-item-content">
                                            <div class="single-item-comment-view">
-                                               <span><i class="zmdi zmdi-accounts"></i>59</span>
-                                               <span><i class="zmdi zmdi-favorite"></i>19</span>
+                                               <span><i class="zmdi zmdi-accounts"></i>270</span>
+                                               <span><i class="zmdi zmdi-favorite"></i>190</span>
                                            </div>
                                            <div class="single-item-rating">
                                                <i class="zmdi zmdi-star"></i>
                                                <i class="zmdi zmdi-star"></i>
                                                <i class="zmdi zmdi-star"></i>
-                                               <i class="zmdi zmdi-star"></i>
                                                <i class="zmdi zmdi-star-half"></i>
+                                               <i class="zmdi zmdi-star-outline"></i>
                                            </div>
-                                        </div>   
+                                        </div>    -->
                                     </div>
                                 </div>
                             </div>
@@ -209,19 +209,19 @@
                                     <div class="single-item-text">
                                         <h4><a href="courses-details.php">Advanced Sculpting & Modelling Program - ASMP </a></h4>
                                         <!-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm.</p> -->
-                                        <div class="single-item-content">
+                                        <!-- <div class="single-item-content">
                                            <div class="single-item-comment-view">
-                                               <span><i class="zmdi zmdi-accounts"></i>59</span>
-                                               <span><i class="zmdi zmdi-favorite"></i>19</span>
+                                               <span><i class="zmdi zmdi-accounts"></i>210</span>
+                                               <span><i class="zmdi zmdi-favorite"></i>130</span>
                                            </div>
                                            <div class="single-item-rating">
                                                <i class="zmdi zmdi-star"></i>
                                                <i class="zmdi zmdi-star"></i>
                                                <i class="zmdi zmdi-star"></i>
-                                               <i class="zmdi zmdi-star"></i>
                                                <i class="zmdi zmdi-star-half"></i>
+                                               <i class="zmdi zmdi-star-outline"></i>
                                            </div>
-                                        </div>   
+                                        </div>    -->
                                     </div>
                                 </div>
                             </div>
@@ -244,14 +244,14 @@
                             </div> -->
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="single-fun-factor mb-30">
-                                    <h2><span class="counter">120</span>+</h2>
-                                    <h4>Members</h4>
+                                    <h2 style="color: black;"><span class="counter">650</span>+</h2>
+                                    <h4 style="color: black;">Members</h4>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-md-6 col-12">
                                 <div class="single-fun-factor mb-30">
-                                    <h2><span class="counter">36</span>+</h2>
-                                    <h4>Courses</h4>
+                                    <h2 style="color: black;"><span class="counter">12</span>+</h2>
+                                    <h4 style="color: black;">Courses</h4>
                                 </div>
                             </div>
                             <!-- <div class="col-lg-3 col-md-6 col-12">

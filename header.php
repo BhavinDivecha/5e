@@ -83,7 +83,7 @@
                                                             <li><a href="courses-details.php">Diploma In Vfx - DV</a></li>
                                                             <li><a href="courses-details.php">Diploma In CGI - DC</a></li>
                                                             <li><a href="courses-details.php">Diploma In Editing - DE</a></li>
-                                                            <li><a href="courses-details.php">Diploma In FX - DF</a></li>
+                                                            <li><a href="courses-details-diploma-df.php">Diploma In FX - DF</a></li>
                                                             <li><a href="courses-details.php">Diploma In Arts - DA</a></li>
                                                     </ul>
                                                 </li>
