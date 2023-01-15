@@ -234,8 +234,8 @@
 Start Date - 10, January, 2023.<br>
 Software - Houdini fx and Nuke<br>
 Course Duration - 3 months + 1 month Tech support<br>
-For queries/ To enroll, call us on- 91+ 9967767425/ 91+ 9004967425.<br>
-mail us at - fiaat.5elements@gmail.com</p>
+For queries/ To enroll, call us on- <a href="tel:+919967767425">91+ 9967767425</a>/ <a href="tel:+919004967425">91+ 9004967425</a>.<br>
+mail us at - <a href="mailto:fiaat.5elements@gmail.com">fiaat.5elements@gmail.com<a></p>
                                 </div>
                             </div>
                             

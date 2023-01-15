@@ -30,21 +30,27 @@
                                                             <li><a href="courses-details.php">Diploma In Vfx - DV</a></li>
                                                             <li><a href="courses-details.php">Diploma In CGI - DC</a></li>
                                                             <li><a href="courses-details.php">Diploma In Editing - DE</a></li>
-                                                            <li><a href="courses-details.php">Diploma In FX - DF</a></li>
+                                                            <li><a href="courses-details-diploma-df.php">Diploma In FX - DF</a></li>
                                                             <li><a href="courses-details.php">Diploma In Arts - DA</a></li>
+                                                            
                                                         </ul>
                                                     </li>
                                                     <li><a href="contact.php">Contact</a></li>
+                                                    <li><a href="https://www.facebook.com/FIAAT555"><i class="zmdi zmdi-facebook"></i></a></li>
+                                            <li><a href="https://www.linkedin.com/in/five-elements-institute-of-advanced-animation-and-tech-4b94b2258"><i class="zmdi zmdi-linkedin"></i></a></li>
+                                            <li> <a href="https://twitter.com/FIAAT555"><i class="zmdi zmdi-twitter"></i></a></li>
+                                            <li><a href="https://www.reddit.com/user/Five5E"><i class="zmdi zmdi-reddit"></i></a></li>
+                                            <li><a href="https://www.instagram.com/5e_fiaat/"><i class="zmdi zmdi-instagram"></i></a></li>
                                                 </ul>
                                             </nav>
                                         </div>
-                                        <!-- <ul class="header-search">
+                                        <ul class="header-search">
                                             <li class="search-menu">
                                                 <i id="toggle-search" class="zmdi zmdi-search"></i>
                                             </li>
-                                        </ul> -->
+                                        </ul>
                                         <!--Search Form-->
-                                        <!-- <div class="search">
+                                        <div class="search">
                                             <div class="search-form">
                                                 <form id="search-form" action="#">
                                                     <input type="search" placeholder="Search here..." name="search" />
@@ -53,7 +59,7 @@
                                                     </button>
                                                 </form>                                
                                             </div>
-                                        </div> -->
+                                        </div>
                                         <!--End of Search Form-->
                                     </div> 
                                 </div>

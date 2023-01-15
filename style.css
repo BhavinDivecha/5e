@@ -1375,6 +1375,7 @@ mark {
 }
 .active .hero-slider-content > h1 {
 	font-family: 'Anton', sans-serif;
+	word-spacing: 5px;
 	-webkit-animation-name: fadeInUp;
 	animation-name: fadeInUp;
     -webkit-animation-delay: 800ms;
@@ -1522,7 +1523,9 @@ h1 .orange-color{
 	color: #fe4d01;
 }
 .about-area h3 span.orange-color {
+	font-family: 'Anton', sans-serif;
 	color: #fe4d01;
+	
 }
 .about-area p {
 	line-height: 28px;
@@ -1731,6 +1734,9 @@ h1 .orange-color{
 @media screen and (min-width: 700px) {
 	.aboutBanner{
 		margin-top: -47px;    margin-left: -79px;
+	}
+	.img-full{
+		margin-bottom: -90px;
 	}
   }
 .single-item-rating {
