@@ -67,7 +67,7 @@
                                     <div class="breadcrumb-bar">
                                         <ul class="breadcrumb text-center">
                                             <li><a href="/">Home</a></li>
-                                            <li>Course</li>
+                                            <li>Courses</li>
                                         </ul>
                                     </div>
                                 </div>

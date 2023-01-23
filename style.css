@@ -4437,6 +4437,14 @@ thead {
 	padding-left: 15px;
 	width: 100%;
 }
+.contact-form-style > select {
+	background: #f2f2f2 url(./img/icon/arrow.png) no-repeat 90% center;
+	border: none;
+	height: 46px;
+	padding-left: 15px;
+	width: 100%;
+    -webkit-appearance: none;
+}
 .contact-form-style > textarea {
 	border: none;
 	background: #f2f2f2;

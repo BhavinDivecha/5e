@@ -17,6 +17,7 @@
                                             <a href="https://twitter.com/FIAAT555"><i class="zmdi zmdi-twitter"></i></a>
                                             <a href="https://www.reddit.com/user/Five5E"><i class="zmdi zmdi-reddit"></i></a>
                                             <a href="https://www.instagram.com/5e_fiaat/"><i class="zmdi zmdi-instagram"></i></a>
+                                            <a href="https://www.youtube.com/@fiaat555"><i class="zmdi zmdi-youtube"></i></a>
                                         </div>
                                     </div>
                                 </div>

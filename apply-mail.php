@@ -30,7 +30,7 @@
         //     $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
         //     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
         //     $mail->Username   = 'fiaat.5elements@gmail.com';                     //SMTP username
-        //     $mail->Password   = 'sfxjwoelzfffusbq';                               //SMTP password
+        //     $mail->Password   = 'dqmuerufgytqifwx';                               //SMTP password
         //     $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
         //     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
         
@@ -84,6 +84,7 @@ $mail = new PHPMailer(true);
         $email = filter_var(trim($_POST["email"]), FILTER_SANITIZE_EMAIL);
         $phone = strip_tags(trim($_POST["phone"]));
         $message = trim($_POST["message"]);
+        $selectedOption = trim($_POST["selected-time"]);
 
         // Check that data was sent to the mailer.
         if ( empty($name) OR empty($phone) OR empty($message) OR !filter_var($email, FILTER_VALIDATE_EMAIL)) {
@@ -91,6 +92,12 @@ $mail = new PHPMailer(true);
             http_response_code(400);
             echo "Please complete the form and try again.";
             exit;
+        }
+        if($selectedOption==0){
+             // Set a 400 (bad request) response code and exit.
+             http_response_code(400);
+             echo "Please Select Time to Contact ";
+             exit;
         }
 
 try {
@@ -113,17 +120,20 @@ $mail->SMTPOptions = array(
     )
 );
     //Recipients
-    $mail->setFrom('fiaat.5elements@gmail.com', 'Mailer');
+    $mail->setFrom('fiaat.5elements@gmail.com', 'Fiaat New Members');
     $mail->addAddress('fiaat.5elements@gmail.com');     //Add a recipient
 
 
          $email_content = "Name: $name\n";
         $email_content .= "Email: $email\n\n";
         $email_content .= "Phone: $phone\n\n";
-        $email_content .= "Message:\n$message\n";
+        $email_content .= "Selected Course :\n$message\n";
+
+
+        $email_content .= "Selected Course :\n$selectedOption\n";
 
          // Set the email subject.
-         $subject = "New contact from $name";
+         $subject = "New Member Applied for $message";
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = $subject;
@@ -131,7 +141,7 @@ $mail->SMTPOptions = array(
 
     if($mail->send()){
         http_response_code(200);
-            echo "Thank You! Your message has been sent.";
+            echo "Thank You!";
     }
     else{
         http_response_code(403);
