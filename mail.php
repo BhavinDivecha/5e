@@ -29,14 +29,14 @@
         //     $mail->isSMTP();                                            //Send using SMTP
         //     $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
         //     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-        //     $mail->Username   = 'bhavin.divecha09@gmail.com';                     //SMTP username
+        //     $mail->Username   = 'fiaat.5elements@gmail.com';                     //SMTP username
         //     $mail->Password   = 'sfxjwoelzfffusbq';                               //SMTP password
         //     $mail->SMTPSecure = 'tls';            //Enable implicit TLS encryption
         //     $mail->Port       = 587;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
         
         //     //Recipients
-        //     $mail->setFrom('bhavin.divecha09@gmail.com', 'Mailer');
-        //     $mail->addAddress('bhavin.divecha09@gmail.com', 'Joe User'); 
+        //     $mail->setFrom('fiaat.5elements@gmail.com', 'Mailer');
+        //     $mail->addAddress('fiaat.5elements@gmail.com', 'Joe User'); 
         
         //     $email_content = "Name: $name\n";
         // $email_content .= "Email: $email\n\n";
@@ -98,14 +98,14 @@ try {
     $mail->isSMTP();                                            //Send using SMTP
     $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
     $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
-    $mail->Username   = 'bhavin.divecha09@gmail.com';                     //SMTP username
-    $mail->Password   = 'sfxjwoelzfffusbq';                                 //SMTP password
+    $mail->Username   = 'fiaat.5elements@gmail.com';                     //SMTP username
+    $mail->Password   = 'dqmuerufgytqifwx';                                 //SMTP password
     $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
     $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
 
     //Recipients
-    $mail->setFrom('bhavin.divecha09@gmail.com', 'Mailer');
-    $mail->addAddress('bhavin.divecha09@gmail.com');     //Add a recipient
+    $mail->setFrom('fiaat.5elements@gmail.com', 'Fiaat Contact US');
+    $mail->addAddress('fiaat.5elements@gmail.com');     //Add a recipient
 
 
          $email_content = "Name: $name\n";

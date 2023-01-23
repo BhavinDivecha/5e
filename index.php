@@ -142,8 +142,8 @@
                                         <h4><a href="courses-details-diploma-df.php">Diploma In FX - DF</a></h4>
                                         <div class="single-item-content">
                                            <div class="single-item-comment-view">
-                                               <span><i class="zmdi zmdi-accounts"></i>340</span>
-                                               <span><i class="zmdi zmdi-favorite"></i>127</span>
+                                               <span><i class="zmdi zmdi-accounts"></i>540</span>
+                                               <span><i class="zmdi zmdi-favorite"></i>354</span>
                                            </div>
                                            <div class="single-item-rating">
                                                <i class="zmdi zmdi-star"></i>

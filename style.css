@@ -1375,7 +1375,8 @@ mark {
 }
 .active .hero-slider-content > h1 {
 	font-family: 'Anton', sans-serif;
-	word-spacing: 5px;
+	/* word-spacing: 5px; */
+	letter-spacing: 2px;
 	-webkit-animation-name: fadeInUp;
 	animation-name: fadeInUp;
     -webkit-animation-delay: 800ms;

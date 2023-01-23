@@ -140,7 +140,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                                 <div class="single-item mb-50">
                                     <div class="single-item-image overlay-effect">
-                                        <a href="courses-details.php"><img src="img/course/DF_Course_logo.jpg" alt=""></a>
+                                        <a href="courses-details-diploma-df.php"><img src="img/course/DF_Course_logo.jpg" alt=""></a>
                                         <!-- <div class="courses-hover-info">
                                             <div class="courses-hover-action">
                                                 <div class="courses-hover-thumb">
@@ -157,8 +157,8 @@
                                         <!-- <p>There are many variations of sages of Lorem Ipsum available, but the mrity have suffered alteration in some orm.</p> -->
                                         <div class="single-item-content">
                                            <div class="single-item-comment-view">
-                                           <span><i class="zmdi zmdi-accounts"></i>340</span>
-                                               <span><i class="zmdi zmdi-favorite"></i>127</span>
+                                           <span><i class="zmdi zmdi-accounts"></i>540</span>
+                                               <span><i class="zmdi zmdi-favorite"></i>354</span>
                                            </div>
                                            <div class="single-item-rating">
                                                <i class="zmdi zmdi-star"></i>
